@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Businnes.deps.json
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Businnes.dll
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Businnes.pdb
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.AssemblyInfo.cs
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.csproj.CopyComplete
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.dll
+C:\Users\asus\source\repos\MyFinalProject\Businnes\obj\Debug\netcoreapp3.1\Businnes.pdb
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\asus\source\repos\MyFinalProject\Businnes\bin\Debug\netcoreapp3.1\Core.pdb
